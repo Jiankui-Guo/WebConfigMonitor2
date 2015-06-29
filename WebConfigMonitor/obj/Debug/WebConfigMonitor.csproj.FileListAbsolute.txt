@@ -1,0 +1,5 @@
+E:\Jiangu\Documents\GitHub\WebConfigMonitor\WebConfigMonitor\bin\Debug\WebConfigMonitor.exe
+E:\Jiangu\Documents\GitHub\WebConfigMonitor\WebConfigMonitor\bin\Debug\WebConfigMonitor.pdb
+E:\Jiangu\Documents\GitHub\WebConfigMonitor\WebConfigMonitor\obj\Debug\WebConfigMonitor.csprojResolveAssemblyReference.cache
+E:\Jiangu\Documents\GitHub\WebConfigMonitor\WebConfigMonitor\obj\Debug\WebConfigMonitor.exe
+E:\Jiangu\Documents\GitHub\WebConfigMonitor\WebConfigMonitor\obj\Debug\WebConfigMonitor.pdb
